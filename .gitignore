@@ -1,0 +1,3 @@
+.env
+# Ignorar a pasta do ambiente virtual
+curso_gemini/
